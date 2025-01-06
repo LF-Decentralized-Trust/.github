@@ -14,6 +14,7 @@ Groups of repos:
 
 Project specific:
 - [Besu](https://github.com/besu-eth)
+- [CREDEBL](https://github.com/credebl)
 - [Hiero](https://github.com/hiero-ledger)
 - [Hyperledger Bevel](https://github.com/hyperledger-bevel)
 - [Hyperledger Cacti](https://github.com/hyperledger-cacti)
