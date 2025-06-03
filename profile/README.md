@@ -2,6 +2,8 @@ These are the orgs within LF Decentralized Trust.
 
 Groups of repos:
 
+### Hyperledger
+
 - [Hyperledger](https://github.com/hyperledger)
 - [Hyperledger Labs](https://github.com/hyperledger-labs)
 - [Hyperledger - Technical Community Group China](https://github.com/Hyperledger-TWGC)
@@ -9,16 +11,18 @@ Groups of repos:
 - [Hyperledger India Chapter](https://github.com/Hyperledger-India)
 - [Hyperledger Project Archive](https://github.com/hyperledger-archives)
 - [Hyperledger Tooling](https://github.com/hyperledger-tooling)
-- [Linux Foundation Decentralized Trust](https://github.com/LF-Decentralized-Trust)
-	- [Linux Foundation Decentralized Trust Labs](https://github.com/LF-Decentralized-Trust-labs)
-	- [Linux Foundation Decentralized Trust Mentorships](https://github.com/LF-Decentralized-Trust-Mentorships)
-- [Trust over IP](https://github.com/trustoverip)
 
-Project specific:
+### Linux Foundation Decentralized Trust
+
+- [Linux Foundation Decentralized Trust](https://github.com/LF-Decentralized-Trust)
+- [Linux Foundation Decentralized Trust Labs](https://github.com/LF-Decentralized-Trust-labs)
+- [Linux Foundation Decentralized Trust Regional Chapters](https://github.com/LFDT-Regional-Chapters)
+- [Linux Foundation Decentralized Trust Mentorships](https://github.com/LF-Decentralized-Trust-Mentorships)
+
+### Project specific
 
 - [Besu](https://github.com/besu-eth)
 - [CREDEBL](https://github.com/credebl)
-- [Hiero Ledger Ecosystem](https://github.com/hiero-ledger-eco)
 - [Hiero](https://github.com/hiero-ledger)
 - [Hyperledger Anoncreds](https://github.com/hyperledger-anoncreds)
 - [Hyperledger Aries](https://github.com/hyperledger-aries)
@@ -33,4 +37,5 @@ Project specific:
 - [Hyperledger Solang](https://github.com/hyperledger-solang)
 - [Lockness](https://github.com/LFDT-Lockness)
 - [Smoot](https://github.com/LFDT-Smoot)
+- [Trust Over IP](https://github.com/trustoverip)
 - [Web3J](https://github.com/LFDT-web3j)
