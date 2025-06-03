@@ -33,4 +33,4 @@ Project specific:
 - [Hyperledger Solang](https://github.com/hyperledger-solang)
 - [Lockness](https://github.com/LFDT-Lockness)
 - [Smoot](https://github.com/LFDT-Smoot)
-- [Web3J](https://github.com/hyperledger-web3j)
+- [Web3J](https://github.com/LFDT-web3j)
